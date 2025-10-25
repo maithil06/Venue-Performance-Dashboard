@@ -19,18 +19,20 @@ Interactive BI dashboards for a theatre venue, analysing 12 months of operations
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/dashboard-overview.png" width="800" alt="Sales Overview Dashboard">
+  <img width="1567" height="859" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/a1e7d12e-febe-4a71-9c8a-fd017fe042fd" />
   <br>
   <em>Sales Overview Dashboard</em>
 </p>
 
 <p align="center">
-  <img src="assets/dashboard-profit.png" width="800" alt="Profit Overview Dashboard">
+  <img width="1542" height="864" alt="Screenshot (525)" src="https://github.com/user-attachments/assets/c8f55ac8-8104-4d73-9844-b0b68a8e6804" />
   <br>
   <em>Profit Overview Dashboard</em>
 </p>
 
-> **Note:** Place your images at `assets/dashboard-overview.png` and `assets/dashboard-profit.png` in the repo.
+
+
+
 
 ---
 
